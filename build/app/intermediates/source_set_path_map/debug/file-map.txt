@@ -1,0 +1,17 @@
+com.example.hydroponics.app-jetified-firebase-common-20.3.3-0 C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\0d946590b975d029fd5c4e212fc5ff8f\transformed\jetified-firebase-common-20.3.3\res
+com.example.hydroponics.app-core-1.6.0-1 C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\4d297d84e7482d2a218e830e5c3ad8e0\transformed\core-1.6.0\res
+com.example.hydroponics.app-jetified-play-services-basement-18.1.0-2 C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5a1ae3e67a59d9f755402b5dacf35a71\transformed\jetified-play-services-basement-18.1.0\res
+com.example.hydroponics.app-jetified-window-1.0.0-beta04-3 C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\8ef360c59d454c72464bdb54954fd307\transformed\jetified-window-1.0.0-beta04\res
+com.example.hydroponics.app-jetified-annotation-experimental-1.1.0-4 C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9304288532edfb8e47c902b320f394ab\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.hydroponics.app-jetified-play-services-base-18.0.1-5 C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\989d3acd1cc4294589b242c33884fcc7\transformed\jetified-play-services-base-18.0.1\res
+com.example.hydroponics.app-jetified-window-java-1.0.0-beta04-6 C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9ad93fb9f1078a41b21d9ff09e42669b\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.hydroponics.app-debug-7 E:\PROJECTS\roborift\hydroponics\android\app\src\debug\res
+com.example.hydroponics.app-main-8 E:\PROJECTS\roborift\hydroponics\android\app\src\main\res
+com.example.hydroponics.app-pngs-9 E:\PROJECTS\roborift\hydroponics\build\app\generated\res\pngs\debug
+com.example.hydroponics.app-resValues-10 E:\PROJECTS\roborift\hydroponics\build\app\generated\res\resValues\debug
+com.example.hydroponics.app-rs-11 E:\PROJECTS\roborift\hydroponics\build\app\generated\res\rs\debug
+com.example.hydroponics.app-mergeDebugResources-12 E:\PROJECTS\roborift\hydroponics\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.hydroponics.app-mergeDebugResources-13 E:\PROJECTS\roborift\hydroponics\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.hydroponics.app-merged_res-14 E:\PROJECTS\roborift\hydroponics\build\app\intermediates\merged_res\debug
+com.example.hydroponics.app-packaged_res-15 E:\PROJECTS\roborift\hydroponics\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.hydroponics.app-packaged_res-16 E:\PROJECTS\roborift\hydroponics\build\firebase_core\intermediates\packaged_res\debug
