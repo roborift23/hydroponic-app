@@ -1,6 +1,6 @@
-# hydroponics
+# hydroponic_app
 
-A new hydroponics project.
+A new Flutter project.
 
 ## Getting Started
 
