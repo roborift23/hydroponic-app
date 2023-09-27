@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "823710675934",
+    "firebase_url": "https://roborift-cf546-default-rtdb.firebaseio.com",
+    "project_id": "roborift-cf546",
+    "storage_bucket": "roborift-cf546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823710675934:android:e028d12e7728bc3c06634f",
+        "android_client_info": {
+          "package_name": "com.roborift.hydroponics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu80BHnm2g6BMv3qCc4Ws3spf4DxEVDnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
