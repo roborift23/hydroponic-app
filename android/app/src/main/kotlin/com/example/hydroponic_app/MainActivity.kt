@@ -1,4 +1,4 @@
-package com.example.hydroponic_app
+package com.roborift.hydroponics
 
 import io.flutter.embedding.android.FlutterActivity
 
