@@ -1,4 +1,6 @@
-"Hydroponics App: Effortlessly Monitor and Manage Your Hydroponic System 🌱📊
+**HYDROPONIC APP**
+
+Effortlessly Monitor and Manage Your Hydroponic System 🌱📊
 
 Welcome to the Hydroponics App, your all-in-one solution for keeping a close eye on your hydroponic system's vital statistics. With this intuitive mobile app, you can seamlessly display real-time sensor data, securely store it in Firebase Firestore, and stay informed with instant OneSignal notification alerts.
 
