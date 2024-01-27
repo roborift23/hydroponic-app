@@ -5,16 +5,18 @@ MERGED from [:firebase_database] E:\PROJECTS\roborift\hydroponic-app\build\fireb
 MERGED from [:firebase_database] E:\PROJECTS\roborift\hydroponic-app\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\65a54f5e2b90d0a89d8598bd33957db0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\65a54f5e2b90d0a89d8598bd33957db0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:27:5-35:19
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\d44df5ba680c45fb45f43fa111484ca0\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\d44df5ba680c45fb45f43fa111484ca0\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b479ef3ec36adab380790168e87023c2\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b479ef3ec36adab380790168e87023c2\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\f0e6cf097fd1b9067d23afa3d9f05562\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:23:5-20
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\f0e6cf097fd1b9067d23afa3d9f05562\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:23:5-20
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7dc3cce605239ce51b524acc4e18cf79\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7dc3cce605239ce51b524acc4e18cf79\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\cc93388a592623f22cc351ca9bf6e71d\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
@@ -37,12 +39,13 @@ INJECTED from E:\PROJECTS\roborift\hydroponic-app\android\app\src\main\AndroidMa
 MERGED from E:\PROJECTS\roborift\hydroponic-app\android\app\src\main\AndroidManifest.xml:1:1-33:12
 MERGED from [:firebase_database] E:\PROJECTS\roborift\hydroponic-app\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\a743ce21ca4ac97971d992f319b3688f\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\65a54f5e2b90d0a89d8598bd33957db0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\d44df5ba680c45fb45f43fa111484ca0\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b479ef3ec36adab380790168e87023c2\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\f0e6cf097fd1b9067d23afa3d9f05562\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:15:1-25:12
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\2485d2812df145b17b88756e990a40a7\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7dc3cce605239ce51b524acc4e18cf79\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\cc93388a592623f22cc351ca9bf6e71d\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
@@ -58,7 +61,7 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\FLUTTERWARS\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\562d4bd8f6af18d98d52e306f1784e40\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\1c40834b93114203185b9b9e320f9830\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\ae7486e39b70099df2b9820d7616e95e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\16e279b30e1ad71b62b98c3b22f6a44e\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\406a0b62eb7a7fc0d5d9ba4f2a0c9e3a\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\f5c2eb0a7774270e93ab633985a993ec\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\8885f8246751dd55b3831668d857c43f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b1419a67d447ce358b6fa5120d53ac90\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
@@ -88,18 +91,20 @@ MERGED from [:firebase_database] E:\PROJECTS\roborift\hydroponic-app\build\fireb
 MERGED from [:firebase_database] E:\PROJECTS\roborift\hydroponic-app\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:19:5-44
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\a743ce21ca4ac97971d992f319b3688f\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\a743ce21ca4ac97971d992f319b3688f\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\65a54f5e2b90d0a89d8598bd33957db0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\65a54f5e2b90d0a89d8598bd33957db0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\d44df5ba680c45fb45f43fa111484ca0\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\d44df5ba680c45fb45f43fa111484ca0\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b479ef3ec36adab380790168e87023c2\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b479ef3ec36adab380790168e87023c2\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\f0e6cf097fd1b9067d23afa3d9f05562\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\f0e6cf097fd1b9067d23afa3d9f05562\transformed\jetified-firebase-appcheck-interop-17.0.1\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\2485d2812df145b17b88756e990a40a7\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\2485d2812df145b17b88756e990a40a7\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7dc3cce605239ce51b524acc4e18cf79\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
@@ -130,8 +135,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\FLUTTERW
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\1c40834b93114203185b9b9e320f9830\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\ae7486e39b70099df2b9820d7616e95e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\ae7486e39b70099df2b9820d7616e95e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\16e279b30e1ad71b62b98c3b22f6a44e\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\16e279b30e1ad71b62b98c3b22f6a44e\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\406a0b62eb7a7fc0d5d9ba4f2a0c9e3a\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\406a0b62eb7a7fc0d5d9ba4f2a0c9e3a\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\f5c2eb0a7774270e93ab633985a993ec\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\f5c2eb0a7774270e93ab633985a993ec\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\8885f8246751dd55b3831668d857c43f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
@@ -150,24 +155,26 @@ INJECTED from E:\PROJECTS\roborift\hydroponic-app\android\app\src\debug\AndroidM
 		INJECTED from E:\PROJECTS\roborift\hydroponic-app\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from E:\PROJECTS\roborift\hydroponic-app\android\app\src\debug\AndroidManifest.xml:6:5-66
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:25:5-67
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from E:\PROJECTS\roborift\hydroponic-app\android\app\src\debug\AndroidManifest.xml:6:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [:firebase_database] E:\PROJECTS\roborift\hydroponic-app\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 MERGED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 MERGED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
-MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:28:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:34:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:32:13-43
 	android:name
 		ADDED from [:firebase_database] E:\PROJECTS\roborift\hydroponic-app\build\firebase_database\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
@@ -182,6 +189,46 @@ ADDED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_c
 		ADDED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
 		ADDED from [:firebase_core] E:\PROJECTS\roborift\hydroponic-app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:22:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\b32274b7e5aabad61a9794a91693ccce\transformed\jetified-firebase-database-20.3.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7f0f1e4e41cbbe9b82c3dae5637193a7\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\5fe1006ac33cca29a97f7f61ee3fba13\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:36:17-109
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\65a54f5e2b90d0a89d8598bd33957db0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required
@@ -194,28 +241,6 @@ ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\ca
 		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\65a54f5e2b90d0a89d8598bd33957db0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 	android:name
 		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\65a54f5e2b90d0a89d8598bd33957db0\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:24:22-76
-meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
-ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
-	android:value
-		ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:33:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\96433d0324b21c762a805f7713c918fe\transformed\jetified-firebase-database-20.2.2\AndroidManifest.xml:32:17-109
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:27:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:29:13-37
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:28:13-43
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:30:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\9e75912ab9284083696cdb70cb32066e\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:26:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\FLUTTERWARS\.gradle\caches\transforms-3\7dc3cce605239ce51b524acc4e18cf79\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
 	android:exported
