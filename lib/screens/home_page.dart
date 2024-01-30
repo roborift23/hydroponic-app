@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:provider/provider.dart';
 import '../models/api.dart'; // Import your API class
-import '../models/sensor_data.dart'; // Import your Sensor class
+import '../models/sensor_data.dart';
+import '../provider/h_provider.dart'; // Import your Sensor class
 
 class HomePage extends StatefulWidget {
   @override
@@ -16,7 +18,7 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     
-    sensorDataStream = GetRequest().getSensorDataStream();
+    Provider.of<SensorDataProvider>(context, listen: false).getSensorDataStream();
   }
 
   @override
@@ -29,20 +31,11 @@ class _HomePageState extends State<HomePage> {
         decoration: BoxDecoration(
           borderRadius: BorderRadius.all(Radius.circular(20)),
         ),
-        child: StreamBuilder<List<Sensor>>(
-          stream: sensorDataStream,
-          builder: (context, snapshot) {
-            if (snapshot.connectionState == ConnectionState.waiting) {
-              return Center(child: const CircularProgressIndicator());
-            } else if (snapshot.hasError) {
-              print(snapshot.error);
-              return Center(child: Text('Error: ${snapshot.error}'));
-            } else if (!snapshot.hasData) {
-              return Center(child: Text(snapshot.data as String));
+        child: Consumer<SensorDataProvider>(
+          builder: (context, sensorProvider, _){
+            if (sensorProvider.sensorData.isEmpty) {
+              return Center(child: CircularProgressIndicator());
             } else {
-              // Extract sensor data from the snapshot
-              List<Sensor> sensorData = snapshot.data!;
-
               return ListView(
               shrinkWrap: true,
                 children:[ 
@@ -57,7 +50,7 @@ class _HomePageState extends State<HomePage> {
       child: Card(
         child: Row(children: [
           Image.asset('asset/logos/temperature.png'),
-           Text(sensorData.isNotEmpty ? sensorData[0].temperature.toString() : 'N/A', style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold))
+           Text(sensorProvider.sensorData[0].temperature.toString(), style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold))
         ],)
       )
     ),
@@ -67,7 +60,7 @@ class _HomePageState extends State<HomePage> {
       child: Card(
         child: Row(children: [
           Image.asset('asset/logos/water.png'),
-         Text(sensorData.isNotEmpty ? sensorData[0].waterlvl.toString() : 'N/A', style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold))
+         Text(sensorProvider.sensorData[0].temperature.toString(), style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold))
         ],)
       )
     ),
@@ -77,7 +70,7 @@ class _HomePageState extends State<HomePage> {
       child: Card(
         child: Row(children: [
           Expanded(child: Image.asset('asset/logos/ph.png', )),
-           Expanded(child: Text(sensorData.isNotEmpty ? sensorData[0].ph.toString() : 'N/A', style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold)))
+           Expanded(child: Text(sensorProvider.sensorData[0].temperature.toString(), style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold)))
         ],)
       ),
     ),
