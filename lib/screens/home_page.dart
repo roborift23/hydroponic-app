@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
       child: Card(
         child: Row(children: [
           Image.asset('asset/logos/temperature.png'),
-           Text(sensorProvider.sensorData[0].temperature.toString(), style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold))
+           Text(sensorProvider.sensorData[0].temperature.toString(), style: const TextStyle(fontSize: 40, fontWeight: FontWeight.bold))
         ],)
       )
     ),
