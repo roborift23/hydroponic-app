@@ -93,9 +93,9 @@
     },
     {
       "name": "fl_chart",
-      "rootUri": "file:///C:/Users/FLUTTERWARS/AppData/Local/Pub/Cache/hosted/pub.dev/fl_chart-0.63.0",
+      "rootUri": "file:///C:/Users/FLUTTERWARS/AppData/Local/Pub/Cache/hosted/pub.dev/fl_chart-0.66.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter",
@@ -126,12 +126,6 @@
       "rootUri": "file:///C:/Users/FLUTTERWARS/Documents/flutter_windows_3.13.6-stable/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.2"
-    },
-    {
-      "name": "intl",
-      "rootUri": "file:///C:/Users/FLUTTERWARS/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "js",
@@ -206,18 +200,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "syncfusion_flutter_charts",
-      "rootUri": "file:///C:/Users/FLUTTERWARS/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_charts-23.2.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "syncfusion_flutter_core",
-      "rootUri": "file:///C:/Users/FLUTTERWARS/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_core-23.2.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "term_glyph",
       "rootUri": "file:///C:/Users/FLUTTERWARS/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.1",
       "packageUri": "lib/",
@@ -248,7 +230,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-01-27T07:23:53.020495Z",
+  "generated": "2024-01-28T19:29:37.006150Z",
   "generator": "pub",
   "generatorVersion": "3.2.5"
 }
