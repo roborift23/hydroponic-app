@@ -1,37 +1,40 @@
-class Sensor {
-  final String sensorName;
-  final int ph;
-  final int temperature;
+class SensorData {
   final int humidity;
   final int nutrients;
+  final int ph;
+  final int temperature;
   final int waterlvl;
 
-  Sensor({
-    required this.sensorName,
-    required this.ph,
-    required this.temperature,
+  SensorData({
     required this.humidity,
     required this.nutrients,
+    required this.ph,
+    required this.temperature,
     required this.waterlvl,
   });
 
-  factory Sensor.fromJson(Map<String, dynamic> json) => Sensor(
-        sensorName: json["sensorName"],
-        ph: json["ph"],
-        temperature: json["temperature"],
-        humidity: json["humidity"],
-        nutrients: json["nutrients"],
-        waterlvl: json["waterlvl"],
-      );
+  factory SensorData.fromJson(Map<String, dynamic> json) {
+    final data = json['data'];
+    final sensorData = data['sensor_data'];
+
+    return SensorData(
+      humidity: sensorData['humidity']?.toInt() ?? 0,
+      nutrients: sensorData['nutrients']?.toInt() ?? 0,
+      ph: sensorData['ph']?.toInt() ?? 0,
+      temperature: sensorData['temperature']?.toInt() ?? 0,
+      waterlvl: sensorData['waterlvl']?.toInt() ?? 0,
+    );
+  }
 
   Map<String, dynamic> toJson() => {
-        "sensorName": sensorName,
-        "ph": ph,
-        "temperature": temperature,
-        "humidity": humidity,
-        "nutrients": nutrients,
-        "waterlvl": waterlvl,
-      };
-
-  
+    'data': {
+      'sensor_data': {
+        'humidity': humidity,
+        'nutrients': nutrients,
+        'ph': ph,
+        'temperature': temperature,
+        'waterlvl': waterlvl,
+      },
+    },
+  };
 }

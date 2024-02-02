@@ -1,36 +1,46 @@
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
-
-import '../models/api.dart';
 import '../models/sensor_data.dart';
 
 class SensorDataProvider extends ChangeNotifier {
-  List<Sensor> _sensorData = [];
- final DatabaseReference _ref = FirebaseDatabase.instance.ref('sensor_data');
-  List<Sensor> get sensorData => _sensorData;
+  List<SensorData> _sensorData = [];
+  final DatabaseReference _ref = FirebaseDatabase.instance.ref('data/sensor_data');
 
-  set sensorData(List<Sensor> newData) {
+  List<SensorData> get sensorData => _sensorData;
+
+  set sensorData(List<SensorData> newData) {
     _sensorData = newData;
     notifyListeners();
   }
-  Stream<List<Sensor>> getSensorDataStream() {
-    return _ref.onValue.map((event) {
-      List<Sensor> sensorData = [];
 
-      final dataSnapshot = event.snapshot;
-      final Object? data = dataSnapshot.value;
+  Stream<List<SensorData>> getSensorDataStream() {
+    return _ref.onValue.map((DatabaseEvent event) {
+      List<SensorData> sensorData = [];
 
-      if (data != null && data is Map<dynamic, dynamic>) {
-        data.forEach((key, value) {
-          if (value is Map<String, dynamic>) {
-            Sensor sensor = Sensor.fromJson(value);
-            sensorData.add(sensor);
-          }
-        });
+      try {
+        final dataSnapshot = event.snapshot;
+        final Object? data = dataSnapshot.value;
+
+        if (data != null && data is Map<dynamic, dynamic>) {
+          data.forEach((key, value) {
+            if (value is Map<String, dynamic>) {
+              SensorData sensor = SensorData.fromJson(value);
+              sensorData.add(sensor);
+            }
+          });
+        }
+
+        // Update the local sensorData list and notify listeners
+        sensorData = sensorData; // Use the extracted sensor data
+        notifyListeners();
+
+        return sensorData;
+      } catch (error) {
+        print("Error retrieving sensor data: $error");
+        // Handle the error appropriately, e.g., log it, display a user-friendly message, or take corrective actions
+        // You might consider returning an empty list or a list with a placeholder sensor to indicate an error
+        return sensorData; // Returning an empty list in this case
       }
-
-      return sensorData;
     });
   }
 }
-

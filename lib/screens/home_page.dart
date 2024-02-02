@@ -11,7 +11,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  late Stream<List<Sensor>> sensorDataStream;
+  late Stream<List<SensorData>> sensorDataStream;
   
 
   @override
@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Hydroponic System')
+        title: const Text('Hydroponic System')
       ),
       body: Container(
         decoration: BoxDecoration(
@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
       child: Card(
         child: Row(children: [
           Image.asset('asset/logos/humidity.png'),
-          //const Text('Humidity')
+          const Text('Humidity')
         ],)
       )
     ),
